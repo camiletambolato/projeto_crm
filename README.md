@@ -1,10 +1,10 @@
-# projeto_crm
+# Projeto_crm
 **Desafio:** 
  Desenvolver uma aplicação PHP capaz de cadastrar clientes, limpar e formatar seus dados, calcular o valor dos contratos e gerar um relatório resumido. O projeto deverá ser dividido em funções reutilizáveis, evitando a repetição de lógica.
 O sistema deve funcionar com dados simulados em arrays. Não é necessário utilizar banco de dados ou autenticação.
 
  Utilizamos:
- ```php 
+ ````php 
 <?php
 
 declare(strict_types=1);
@@ -537,7 +537,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </body>
 
 </html>
-```
+```` 
 
 
 Para executar a atividade.
@@ -748,8 +748,7 @@ echo "<hr>";
 
 echo "<h2>Fim dos testes</h2>";
 
-?>
-```
+?>```
 ** Etapas de desenvolvimento**
 
 - *Planejamento*: Assim que formamos os grupos, criamos um chat na plataforma classroom para o compartilhamento de informações, das quais todas deveriam ter acesso. 
